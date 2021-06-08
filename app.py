@@ -6,7 +6,7 @@ from db import Db
 sg.theme('Material1')
 BG_COLOR =   'PeachPuff2'# 'light green'
 WIDGET_COLOR = sg.theme_background_color()
-DB = 'mydiary.json' #this is the name of the json file that will store your entries for persistence. 
+DB = 'yourdiary.json' #this is the name of the json file that will store your entries for persistence. 
 
 # FUNCTIONS #
 def vertical_spacing(num):
